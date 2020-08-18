@@ -1,7 +1,7 @@
 ### Hi, folks! 🙌
 
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab)](https://github.com/anuraghazra/github-readme-stats)
+ [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 Currently working on D&D & personal projects with my team members.
 - 🌱 Currently learning how to develop mobile apps for both iOS and Android.
