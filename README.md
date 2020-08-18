@@ -6,6 +6,7 @@
 - 🔭 Currently working on D&D & personal projects with my team members.
 - 🌱 Currently learning how to develop mobile apps for both iOS and Android.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
+- 👌 Can develop in HTML / CSS / JS(Node) / Python / React / Swift / Kotlin
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Obsessed with learning and developing something new.
