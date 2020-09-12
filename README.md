@@ -15,6 +15,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaronlab.net@gmail.com)](mailto:aaronlab.net@gmail.com)
-[![` Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=http://aaronlab.net/)](http://aaronlab.net/)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=http://aaronlab.net/)](http://aaronlab.net/)
+[![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=notion&link=http://aaronlab.net/portfolio.html)](http://aaronlab.net/portfolio.html)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolwoo.lee.1004)](https://www.facebook.com/cheolwoo.lee.1004)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FaaronLab)](https://hits.seeyoufarm.com)
