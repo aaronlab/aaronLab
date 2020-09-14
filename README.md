@@ -3,7 +3,7 @@
 
  [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&hide=stars&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Currently working on personal projects with my team members.
+- 🔭 Currently working on [D&D](https://dnd.ac/) personal projects with my team members.
 - 🌱 Currently learning how to develop mobile apps for both iOS and Android.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
 - 👌 Can develop in HTML / CSS / JS(Node) / Python / React / Swift / Kotlin
