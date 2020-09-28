@@ -4,7 +4,8 @@
  [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 Currently working on [D&D](https://dnd.ac/) personal projects with my team members.
+- 👨‍💻 Junior iOS Engineer at B.Factory in Seoul, South Korea.
+- 🔭 Also working on [D&D](https://dnd.ac/) as a Mentor & personal projects with my team members.
 - 🌱 Currently learning how to develop mobile apps for both iOS and Android.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
 - 👌 Can develop in HTML / CSS / JS(Node) / Python / React / Swift / Kotlin
