@@ -4,7 +4,7 @@
  [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 Junior iOS Engineer at B.Factory in Seoul, South Korea.
+- 👨‍💻 Junior iOS Software Engineer at B.Factory in Seoul, South Korea.
 - 🔭 Also mentoring at [D&D](https://dnd.ac/) & working on personal projects with my team members.
 - 🌱 Currently learning how to use Combine Framework with MVVM pattern.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
