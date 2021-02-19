@@ -8,7 +8,6 @@
 - 🔭 Also mentoring at [D&D](https://dnd.ac/) & working on personal projects with my team members.
 - 🌱 Currently learning how to use SpringBoot & make aOS apps in Kotlin.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
-- 👌 Can develop in Swift / Kotlin / JS(Node) / Python / HTML + CSS / React
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Obsessed with learning and developing something new.
