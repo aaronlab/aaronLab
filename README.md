@@ -6,7 +6,6 @@
 
 - 👨‍💻 Junior iOS Software Engineer at B.Factory in Seoul, South Korea.
 - 🔭 Also mentoring at [D&D](https://dnd.ac/) & working on personal projects with my team members.
-- 🌱 Currently learning how to use SpringBoot & make aOS apps in Kotlin.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
