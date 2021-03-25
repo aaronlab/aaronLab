@@ -1,7 +1,7 @@
 ### Hi, folks! 🙌
 
 
- [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&hide=stars&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaronLab&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👨‍💻 Junior iOS Software Engineer at B.Factory in Seoul, South Korea.
