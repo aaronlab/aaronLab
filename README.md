@@ -5,7 +5,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronLab&layout=compact&theme=dark&langs_count=100)](#)
 
 - 👨‍💻 Junior iOS Software Engineer at B.Factory in Seoul, South Korea.
-- 🔭 Also mentoring at [D&D](https://dnd.ac/) & working on various projects with [Travellers Team](https://github.com/TravellersTeam).
+- 🔭 Also mentoring at [D&D](https://dnd.ac/) & working on various projects with various teams.
 - 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
