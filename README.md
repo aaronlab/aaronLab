@@ -6,7 +6,6 @@
 
 - 👨‍💻 iOS Software Engineer at Witi in South Korea.
 - 🔭 Also mentoring at [D&D](https://dnd.ac/) & working on various projects with various teams.
-- 🙋‍♂️ Prefer to develop in native environments rather than in cross-platform environments.
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
 - 😄 Pronouns: Obsessed with learning and developing something new.
