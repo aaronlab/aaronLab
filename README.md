@@ -10,8 +10,9 @@
 - 💬 Ask me about anything.
 - 😄 Pronouns: Obsessed with learning and developing something new.
 - ⚡ Fun fact: Studied music composition in university.
-- 🎓 Studying Software Engineering in university
+- 🎓 Studying Software Engineering in university.
 - 📫 How to reach me: Please use the badges below.
+- 🙅‍♂️ Do not prefer Storyboards, prefer 100% codes.
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaronlab.net@gmail.com)](mailto:aaronlab.net@gmail.com)
