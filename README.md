@@ -8,7 +8,7 @@
 - 🔭 Also organizer at [D&D](https://dnd.ac/) & working on various projects with various teams.
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
-- 😄 Pronouns: Obsessed with learning and developing something new.
+- 😄 Pronouns: Obsessed with learning and developing something new, as well as 1 day 1 commit.
 - ⚡ Fun fact: Studied music composition in university.
 - 🎓 Studying Software Engineering in university.
 - 📫 How to reach me: Please use the badges below.
