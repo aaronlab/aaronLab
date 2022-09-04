@@ -12,5 +12,6 @@
 - ⚡ Fun fact: Studied music composition in university.
 
 
+[![CV](https://img.shields.io/badge/-CV-brightgreen)](https://aaron-lee.me)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaronlab.net@gmail.com)](mailto:aaronlab.net@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FaaronLab)](https://hits.seeyoufarm.com)
