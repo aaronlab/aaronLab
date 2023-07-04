@@ -1,7 +1,7 @@
 ### Hi, folks! 🙌
 
 - 👨‍💻 CIO at Witi Corp., South Korea.
-- 🔭 One of organizers of [D&D](https://dnd.ac/) & working on various projects with various teams.
+- 🔭 Organizer at [D&D](https://dnd.ac/) & working on various projects with various teams.
 - 👯 Looking to collaborate on making Web Services & Mobile Apps.
 - 💬 Ask me about anything.
 - 😄 Obsessed with learning and developing something new.
