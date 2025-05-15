@@ -1,9 +1,8 @@
 ### Hi, folks! 🙌
 
-- 👨‍💻 Technical Lead at Witi Corp., South Korea.
-- 🔭 Organizer at [D&D](https://dnd.ac/) & working on various projects with various teams.
-- 💬 Ask me about anything.
+- 🧑‍🎨 I love making something new.
 - 😄 Obsessed with learning and developing something new.
+- - 💬 Ask me about anything.
 
 
 
